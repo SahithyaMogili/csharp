@@ -1,0 +1,13 @@
+C:\Users\Sahithya_Mogili\source\repos\C Sharp learning\bin\Debug\netcoreapp3.1\C Sharp learning.exe
+C:\Users\Sahithya_Mogili\source\repos\C Sharp learning\bin\Debug\netcoreapp3.1\C Sharp learning.deps.json
+C:\Users\Sahithya_Mogili\source\repos\C Sharp learning\bin\Debug\netcoreapp3.1\C Sharp learning.runtimeconfig.json
+C:\Users\Sahithya_Mogili\source\repos\C Sharp learning\bin\Debug\netcoreapp3.1\C Sharp learning.runtimeconfig.dev.json
+C:\Users\Sahithya_Mogili\source\repos\C Sharp learning\bin\Debug\netcoreapp3.1\C Sharp learning.dll
+C:\Users\Sahithya_Mogili\source\repos\C Sharp learning\bin\Debug\netcoreapp3.1\C Sharp learning.pdb
+C:\Users\Sahithya_Mogili\source\repos\C Sharp learning\obj\Debug\netcoreapp3.1\C Sharp learning.csproj.AssemblyReference.cache
+C:\Users\Sahithya_Mogili\source\repos\C Sharp learning\obj\Debug\netcoreapp3.1\C Sharp learning.AssemblyInfoInputs.cache
+C:\Users\Sahithya_Mogili\source\repos\C Sharp learning\obj\Debug\netcoreapp3.1\C Sharp learning.AssemblyInfo.cs
+C:\Users\Sahithya_Mogili\source\repos\C Sharp learning\obj\Debug\netcoreapp3.1\C Sharp learning.csproj.CoreCompileInputs.cache
+C:\Users\Sahithya_Mogili\source\repos\C Sharp learning\obj\Debug\netcoreapp3.1\C Sharp learning.dll
+C:\Users\Sahithya_Mogili\source\repos\C Sharp learning\obj\Debug\netcoreapp3.1\C Sharp learning.pdb
+C:\Users\Sahithya_Mogili\source\repos\C Sharp learning\obj\Debug\netcoreapp3.1\C Sharp learning.genruntimeconfig.cache
