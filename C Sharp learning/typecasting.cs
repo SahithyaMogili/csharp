@@ -17,8 +17,9 @@ namespace C_Sharp_learning
             Console.WriteLine("name="+name);
             Console.WriteLine("age=" + age);
             Console.WriteLine("name=" + name);
-
-
+            Console.WriteLine("hello"+name+" how r u ."+name+" now ur age is"+age+"happy birthday");
+            Console.WriteLine("hello {0} how r u {0} now ur age is{1} happy birthday",name,age);
+            Console.WriteLine($"hello {name} how r u {name} now ur age is{age} happy birthday", name, age);
 
         }
     }
